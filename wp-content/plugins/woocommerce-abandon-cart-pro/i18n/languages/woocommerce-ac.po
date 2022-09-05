@@ -1,0 +1,1198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce-ac\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-18 17:10+0530\n"
+"PO-Revision-Date: 2017-12-18 17:10+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+
+#: woocommerce-ac.php:80
+msgid "Yesterday"
+msgstr ""
+
+#: woocommerce-ac.php:81 includes/admin/wcap_dashboard_widget.php:133
+msgid "Today"
+msgstr ""
+
+#: woocommerce-ac.php:82
+msgid "Last 7 days"
+msgstr ""
+
+#: woocommerce-ac.php:83
+msgid "Last 15 days"
+msgstr ""
+
+#: woocommerce-ac.php:84
+msgid "Last 30 days"
+msgstr ""
+
+#: woocommerce-ac.php:85
+msgid "Last 90 days"
+msgstr ""
+
+#: woocommerce-ac.php:86
+msgid "Last 365"
+msgstr ""
+
+#: cron/wcap_send_email_using_cron.php:86
+#: includes/classes/class_wcap_send_manual_email.php:38
+msgid "Abandoned cart reminder"
+msgstr ""
+
+#: cron/wcap_send_email_using_cron.php:581 includes/wcap_common.php:871
+#: includes/classes/class_wcap_send_manual_email.php:499
+msgid "<strong>Tax:</strong>"
+msgstr ""
+
+#: cron/wcap_send_email_using_cron.php:906
+#: cron/wcap_send_email_using_cron.php:979
+#: includes/frontend/wcap_on_placed_order.php:180
+#: includes/frontend/wcap_order_received.php:48
+msgid "This order was abandoned & subsequently recovered."
+msgstr ""
+
+#: includes/wcap_activate_plugin.php:34
+msgid "Once Every Fifteen Minutes"
+msgstr ""
+
+#: includes/wcap_common.php:33
+msgid "View WooCommerce abandoned Cart Settings"
+msgstr ""
+
+#: includes/wcap_common.php:33 includes/admin/wcap_add_settings.php:16
+#: includes/admin/wcap_menu.php:139
+msgid "Settings"
+msgstr ""
+
+#: includes/wcap_common.php:47
+msgid "View WooCommerce abandoned Cart Documentation"
+msgstr ""
+
+#: includes/wcap_common.php:47
+msgid "Docs"
+msgstr ""
+
+#: includes/wcap_common.php:48
+msgid "Visit Customer Support Forum"
+msgstr ""
+
+#: includes/wcap_common.php:48
+msgid "Support Forums"
+msgstr ""
+
+#: includes/wcap_common.php:61
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/wcap_load_scripts.php:65
+msgctxt "enhanced select"
+msgid "One result is available, press enter to select it."
+msgstr ""
+
+#: includes/wcap_load_scripts.php:66
+msgctxt "enhanced select"
+msgid "%qty% results are available, use up and down arrow keys to navigate."
+msgstr ""
+
+#: includes/wcap_load_scripts.php:67
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr ""
+
+#: includes/wcap_load_scripts.php:68
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr ""
+
+#: includes/wcap_load_scripts.php:69
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr ""
+
+#: includes/wcap_load_scripts.php:70
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr ""
+
+#: includes/wcap_load_scripts.php:71
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr ""
+
+#: includes/wcap_load_scripts.php:72
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr ""
+
+#: includes/wcap_load_scripts.php:73
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr ""
+
+#: includes/wcap_load_scripts.php:74
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr ""
+
+#: includes/wcap_load_scripts.php:75
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr ""
+
+#: includes/wcap_load_scripts.php:76
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_details.php:44
+#: includes/admin/wcap_print_and_csv.php:335
+#: includes/classes/class_wcap_abandoned_orders_table.php:522
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:384
+msgid "Unsubscribed"
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_details.php:47
+#: includes/admin/wcap_print_and_csv.php:337
+#: includes/classes/class_wcap_abandoned_orders_table.php:525
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:387
+msgid "Abandoned"
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_details.php:50
+#: includes/admin/wcap_print_and_csv.php:339
+msgid "Abandoned but new cart created after this"
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_details.php:285
+msgid "Billing Address:"
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_details.php:292
+msgid "Shipping Address:"
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_details.php:312
+msgid "IP Address:"
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_details.php:502
+#: includes/admin/wcap_print_and_csv.php:328
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:376
+msgid "item"
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_details.php:504
+#: includes/admin/wcap_print_and_csv.php:330
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:378
+msgid "items"
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_details.php:572
+#, php-format
+msgid "Cart #%s"
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_details.php:582
+#: includes/admin/wcap_print_and_csv.php:552
+#: includes/admin/wcap_print_and_csv.php:567
+#: includes/classes/class_wcap_abandoned_orders_table.php:80
+#: includes/classes/class_wcap_abandoned_orders_table.php:94
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:80
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:94
+#: includes/classes/class_wcap_recover_orders_table.php:108
+#: includes/classes/class_wcap_recover_trash_orders_table.php:108
+msgid "Email Address"
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_details.php:583
+#: includes/admin/wcap_print_and_csv.php:553
+#: includes/admin/wcap_print_and_csv.php:568
+#: includes/classes/class_wcap_abandoned_orders_table.php:81
+#: includes/classes/class_wcap_abandoned_orders_table.php:95
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:81
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:95
+msgid "Customer Details"
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_details.php:584
+#: includes/admin/wcap_print_and_csv.php:555
+#: includes/admin/wcap_print_and_csv.php:570
+#: includes/classes/class_wcap_abandoned_orders_table.php:82
+#: includes/classes/class_wcap_abandoned_orders_table.php:96
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:82
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:96
+#: includes/classes/class_wcap_recover_orders_table.php:112
+#: includes/classes/class_wcap_recover_trash_orders_table.php:112
+msgid "Order Total"
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_details.php:585
+#: includes/admin/wcap_print_and_csv.php:557
+#: includes/admin/wcap_print_and_csv.php:572
+#: includes/classes/class_wcap_abandoned_orders_table.php:83
+#: includes/classes/class_wcap_abandoned_orders_table.php:97
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:83
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:97
+msgid "Abandoned Date"
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_details.php:600
+msgid "Item Name"
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_details.php:601
+msgid "Item Cost"
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_details.php:602
+msgid "Item Quantity"
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_details.php:632
+#: includes/classes/class_wcap_abandoned_orders_table.php:152
+#: includes/classes/class_wcap_abandoned_orders_table.php:749
+#: includes/classes/class_wcap_manual_email.php:39
+msgid "Send Custom Email"
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_details.php:639
+msgid "Close"
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_list.php:21
+msgid ""
+"The list below shows all Abandoned Carts which have remained in cart for a "
+"time higher than the \"Cart abandoned cut-off time\" setting."
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_list.php:72
+#: includes/admin/wcap_sent_email_list.php:149
+msgid "All "
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_list.php:77
+msgid "Trash "
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_list.php:95
+msgid " Carts without Customer Details "
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_list.php:128
+msgid "Print"
+msgstr ""
+
+#: includes/admin/wcap_abandoned_cart_list.php:129
+msgid "CSV"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:23
+msgid "Enable abandoned cart emails"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:27
+msgid "Yes, enable the abandoned cart emails."
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:31
+msgid "Cart abandoned cut-off time for logged-in users"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:35
+msgid ""
+"For logged-in users consider cart abandoned after X minutes of item being "
+"added to cart & order not placed."
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:40
+msgid "Cart abandoned cut-off time for guest users"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:44
+msgid ""
+"For guest users & visitors consider cart abandoned after X minutes of item "
+"being added to cart & order not placed."
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:49
+msgid "Automatically Delete Abandoned Orders after X days"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:53
+msgid "Automatically delete abandoned cart orders after X days."
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:58
+msgid "Email admin On Order Recovery"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:62
+msgid "Sends email to Admin if an Abandoned Cart Order is recovered."
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:67
+msgid "Do not track carts of guest users"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:71
+msgid "Abandoned carts of guest users will not be tracked."
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:76
+msgid "Start tracking from Cart Page"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:80
+msgid ""
+"Enable tracking of abandoned products & carts even if customer does not "
+"visit the checkout page or does not enter any details on the checkout page "
+"like Name or Email. Tracking will begin as soon as a visitor adds a product "
+"to their cart and visits the cart page."
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:85
+msgid "Do not track carts of logged-in users"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:89
+msgid "Abandoned carts of logged-in users will not be tracked."
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:99
+msgid "Settings for abandoned cart recovery emails"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:106
+msgid "\"From\" Name"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:115
+msgid "\"From\" Address"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:124
+msgid "Send Reply Emails to"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:133
+msgid "Product Image( H x W )"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:146
+msgid "Setting for sending emails using WP Cron"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:153
+msgid "Send  Abandoned cart emails automatically using WP Cron"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:162
+msgid "Run Automated WP Cron after X minutes"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:172
+msgid "Plugin License Options"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:179
+msgid "License Key"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:183
+msgid "Enter your license key."
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:188
+#: includes/admin/wcap_add_settings.php:670
+msgid "Activate License"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:191
+msgid "ac_general_license_key_section"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:200
+msgid "Rules to exclude capturing abandoned carts"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:207
+msgid "Do not capture abandoned carts for these IP addresses"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:216
+msgid "Do not capture abandoned carts for these email addresses"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:225
+msgid "Do not capture abandoned carts for email addresses from these domains"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:330
+#: includes/admin/wcap_add_settings.php:342
+msgid ""
+"Abandoned cart cut off time should be numeric and has to be greater than 0."
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:354
+msgid ""
+"Automatically Delete Abandoned Orders after X days has to be greater than 0."
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:665
+msgid "active"
+msgstr ""
+
+#: includes/admin/wcap_add_settings.php:667
+msgid "Deactivate License"
+msgstr ""
+
+#: includes/admin/wcap_admin_recovery.php:41
+msgid "New Customer Order - Recovered"
+msgstr ""
+
+#: includes/admin/wcap_coupon_code.php:59
+#: includes/admin/wcap_coupon_code.php:60
+#: includes/admin/wcap_coupon_code.php:69
+#: includes/admin/wcap_coupon_code.php:70
+msgid "Discount code applied successfully."
+msgstr ""
+
+#: includes/admin/wcap_dashboard_widget.php:22
+msgid "Abandoned & Recovered Carts Summary"
+msgstr ""
+
+#: includes/admin/wcap_dashboard_widget.php:60
+msgid "Current Month"
+msgstr ""
+
+#: includes/admin/wcap_dashboard_widget.php:65
+#: includes/admin/wcap_dashboard_widget.php:94
+#: includes/admin/wcap_dashboard_widget.php:139 includes/admin/wcap_menu.php:11
+#: includes/classes/class_wcap_dashboard_report_action.php:125
+#: includes/classes/class_wcap_dashboard_report_action.php:128
+msgid "Abandoned Carts"
+msgstr ""
+
+#: includes/admin/wcap_dashboard_widget.php:74
+#: includes/admin/wcap_dashboard_widget.php:103
+#: includes/admin/wcap_dashboard_widget.php:147
+#: includes/classes/class_wcap_dashboard_report_action.php:126
+msgid "Recovered Carts"
+msgstr ""
+
+#: includes/admin/wcap_dashboard_widget.php:80
+#: includes/admin/wcap_dashboard_widget.php:115
+#: includes/admin/wcap_dashboard_widget.php:157
+msgid "Conversion Ratio"
+msgstr ""
+
+#: includes/admin/wcap_dashboard_widget.php:89
+#: includes/classes/class_wcap_dashboard_report_action.php:350
+msgid "Last Month"
+msgstr ""
+
+#: includes/admin/wcap_dashboard_widget.php:175
+msgid "Totals"
+msgstr ""
+
+#: includes/admin/wcap_dashboard_widget.php:180
+msgid "Total Abandoned Carts"
+msgstr ""
+
+#: includes/admin/wcap_dashboard_widget.php:189
+msgid "Total Recovered Carts"
+msgstr ""
+
+#: includes/admin/wcap_dashboard_widget.php:198
+msgid "Total Conversion Ratio"
+msgstr ""
+
+#: includes/admin/wcap_dashboard_widget.php:216
+msgid "Top Abandoned Product"
+msgstr ""
+
+#: includes/admin/wcap_dashboard_widget.php:217
+#: includes/admin/wcap_dashboard_widget.php:248
+msgid "View All"
+msgstr ""
+
+#: includes/admin/wcap_dashboard_widget.php:247
+msgid "Top Recovered Product"
+msgstr ""
+
+#: includes/admin/wcap_display_notices.php:35
+msgid "The recovered cart has been successfully deleted."
+msgstr ""
+
+#: includes/admin/wcap_display_notices.php:141
+msgid "The Template has been successfully deleted."
+msgstr ""
+
+#: includes/admin/wcap_display_notices.php:151
+msgid ""
+"The abandoned cart reminder email has been sent successfully to the selected "
+"customer(s)."
+msgstr ""
+
+#: includes/admin/wcap_display_notices.php:163
+msgid "The Email Template has been successfully added."
+msgstr ""
+
+#: includes/admin/wcap_display_notices.php:176
+msgid ""
+" There was a problem adding the email template. Please contact the plugin "
+"author via <a href= \"https://www.tychesoftwares.com/forums/forum/"
+"woocommerce-abandon-cart-pro/\">support forum</a>."
+msgstr ""
+
+#: includes/admin/wcap_display_notices.php:188
+msgid "The Email Template has been successfully updated."
+msgstr ""
+
+#: includes/admin/wcap_display_notices.php:200
+msgid ""
+" There was a problem updating the email template. Please contact the plugin "
+"author via <a href= \"https://www.tychesoftwares.com/forums/forum/"
+"woocommerce-abandon-cart-pro/\">support forum</a>."
+msgstr ""
+
+#: includes/admin/wcap_display_notices.php:212
+msgid "Settings saved."
+msgstr ""
+
+#: includes/admin/wcap_email_settings.php:19
+msgid ""
+"Change settings for sending email notifications to Customers, to Admin, "
+"Tracking Coupons etc."
+msgstr ""
+
+#: includes/admin/wcap_email_settings.php:47
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/wcap_email_settings.php:50
+msgid "Add To Cart Popup Editor Settings"
+msgstr ""
+
+#: includes/admin/wcap_email_settings.php:53
+msgid "Email Sending Settings"
+msgstr ""
+
+#: includes/admin/wcap_email_settings.php:56
+msgid "Restriction Settings"
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:37
+#: includes/classes/class_wcap_manual_email.php:24
+msgid "Your settings have been saved."
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:65
+msgid "Send to selected Segment(s):"
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:103
+msgid ""
+"Send this email template to selected segment(s). For example, you can send "
+"different email templates to registered users & different templates to guest "
+"users."
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:110
+msgid "Send the Abandoned cart emails to:"
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:191
+msgid "Send this email template to selected email address(s)."
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:202
+msgid "Template Name:"
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:216
+msgid "Enter a template name for reference"
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:223
+msgid "Send this email:"
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:271
+msgid "after cart is abandoned."
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:281
+#: includes/classes/class_wcap_manual_email.php:84
+msgid "Subject:"
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:298
+#: includes/classes/class_wcap_manual_email.php:98
+msgid "Enter the subject that should appear in the email sent"
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:307
+#: includes/classes/class_wcap_manual_email.php:108
+msgid "Email Body:"
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:337
+#: includes/classes/class_wcap_manual_email.php:138
+msgid "Message to be sent in the reminder email."
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:366
+#: includes/classes/class_wcap_manual_email.php:168
+msgid "Use WooCommerce Template Style:"
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:390
+#: includes/classes/class_wcap_manual_email.php:185
+msgid ""
+"Use WooCommerce default style template for abandoned cart reminder emails."
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:403
+#: includes/classes/class_wcap_manual_email.php:196
+msgid "Email Template Header Text: "
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:421
+#: includes/classes/class_wcap_manual_email.php:213
+msgid ""
+"Enter the header which will appear in the abandoned WooCommerce email sent. "
+"This is only applicable when only used when \"Use WooCommerce Template Style:"
+"\" is checked."
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:429
+#: includes/classes/class_wcap_manual_email.php:221
+msgid "Enter a coupon code to add into email:"
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:467
+#: includes/admin/wcap_email_template_fields.php:480
+#: includes/classes/class_wcap_manual_email.php:257
+#: includes/classes/class_wcap_manual_email.php:270
+msgid "Search for a Coupon&hellip;"
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:486
+#: includes/classes/class_wcap_manual_email.php:276
+msgid ""
+"Search & select one coupon code that customers should use to get a discount."
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:497
+#: includes/classes/class_wcap_manual_email.php:287
+msgid "Generate unique coupon codes:"
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:519
+#: includes/classes/class_wcap_manual_email.php:304
+msgid "Replace this coupon with unique coupon codes for each customer"
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:527
+#: includes/classes/class_wcap_manual_email.php:311
+msgid "Send a test email to:"
+msgstr ""
+
+#: includes/admin/wcap_email_template_fields.php:534
+#: includes/classes/class_wcap_manual_email.php:318
+msgid "Enter the email id to which the test email needs to be sent."
+msgstr ""
+
+#: includes/admin/wcap_email_template_list.php:20
+msgid ""
+"Add email templates at different intervals to maximize the possibility of "
+"recovering your abandoned carts."
+msgstr ""
+
+#: includes/admin/wcap_email_template_list.php:98
+msgid "Add New Template"
+msgstr ""
+
+#: includes/admin/wcap_menu.php:26
+msgid "WooCommerce - Abandon Cart"
+msgstr ""
+
+#: includes/admin/wcap_menu.php:136
+msgid "Dashboard"
+msgstr ""
+
+#: includes/admin/wcap_menu.php:137
+msgid "Abandoned Orders"
+msgstr ""
+
+#: includes/admin/wcap_menu.php:138
+msgid "Email Templates"
+msgstr ""
+
+#: includes/admin/wcap_menu.php:140
+msgid "Recovered Orders"
+msgstr ""
+
+#: includes/admin/wcap_menu.php:141
+msgid "Sent Emails"
+msgstr ""
+
+#: includes/admin/wcap_menu.php:142
+msgid "Product Report"
+msgstr ""
+
+#: includes/admin/wcap_print_and_csv.php:502
+#: includes/admin/wcap_print_and_csv.php:665
+#: includes/classes/class_wcap_abandoned_orders_table.php:723
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:593
+msgid "Cart Popup"
+msgstr ""
+
+#: includes/admin/wcap_print_and_csv.php:504
+#: includes/admin/wcap_print_and_csv.php:508
+#: includes/admin/wcap_print_and_csv.php:667
+#: includes/admin/wcap_print_and_csv.php:671
+#: includes/classes/class_wcap_abandoned_orders_table.php:725
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:595
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:599
+msgid "Checkout page"
+msgstr ""
+
+#: includes/admin/wcap_print_and_csv.php:510
+#: includes/admin/wcap_print_and_csv.php:673
+#: includes/classes/class_wcap_abandoned_orders_table.php:731
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:601
+msgid "User Profile"
+msgstr ""
+
+#: includes/admin/wcap_print_and_csv.php:551
+#: includes/admin/wcap_print_and_csv.php:566
+msgid "ID"
+msgstr ""
+
+#: includes/admin/wcap_print_and_csv.php:554
+#: includes/admin/wcap_print_and_csv.php:569
+msgid "Products"
+msgstr ""
+
+#: includes/admin/wcap_print_and_csv.php:556
+#: includes/admin/wcap_print_and_csv.php:571
+msgid "Quantity"
+msgstr ""
+
+#: includes/admin/wcap_print_and_csv.php:558
+#: includes/classes/class_wcap_abandoned_orders_table.php:84
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:84
+msgid "Coupon Code Used"
+msgstr ""
+
+#: includes/admin/wcap_print_and_csv.php:559
+#: includes/classes/class_wcap_abandoned_orders_table.php:85
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:85
+msgid "Coupon Status"
+msgstr ""
+
+#: includes/admin/wcap_print_and_csv.php:560
+#: includes/admin/wcap_print_and_csv.php:573
+#: includes/classes/class_wcap_abandoned_orders_table.php:86
+#: includes/classes/class_wcap_abandoned_orders_table.php:98
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:86
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:98
+msgid "Email Captured By"
+msgstr ""
+
+#: includes/admin/wcap_print_and_csv.php:561
+#: includes/admin/wcap_print_and_csv.php:574
+msgid "Status of cart"
+msgstr ""
+
+#: includes/admin/wcap_recovered_order_list.php:41
+msgid ""
+"The Report below shows how many Abandoned Carts we were able to recover for "
+"you by sending automatic emails to encourage shoppers."
+msgstr ""
+
+#: includes/admin/wcap_recovered_order_list.php:51
+#: includes/admin/wcap_sent_email_list.php:54
+msgid " selected "
+msgstr ""
+
+#: includes/admin/wcap_recovered_order_list.php:86
+#: includes/admin/wcap_sent_email_list.php:89
+msgid "Start Date:"
+msgstr ""
+
+#: includes/admin/wcap_recovered_order_list.php:89
+#: includes/admin/wcap_sent_email_list.php:92
+msgid "End Date:"
+msgstr ""
+
+#: includes/admin/wcap_recovered_order_list.php:92
+#: includes/admin/wcap_sent_email_list.php:94
+#: includes/classes/class_wcap_dashboard_report_action.php:404
+msgid "Go"
+msgstr ""
+
+#: includes/admin/wcap_recovered_order_list.php:130
+msgid "During the selected range "
+msgstr ""
+
+#: includes/admin/wcap_recovered_order_list.php:135
+msgid "carts totaling"
+msgstr ""
+
+#: includes/admin/wcap_recovered_order_list.php:140
+msgid " were abandoned. We were able to recover"
+msgstr ""
+
+#: includes/admin/wcap_recovered_order_list.php:147
+msgid " of them, which led to an extra"
+msgstr ""
+
+#: includes/admin/wcap_recovered_order_list.php:161
+msgid "All"
+msgstr ""
+
+#: includes/admin/wcap_recovered_order_list.php:165
+#: includes/admin/wcap_sent_email_list.php:153
+#: includes/classes/class_wcap_abandoned_orders_table.php:154
+#: includes/classes/class_wcap_recover_orders_table.php:163
+#: includes/classes/class_wcap_sent_emails_table.php:176
+msgid "Trash"
+msgstr ""
+
+#: includes/admin/wcap_sent_email_list.php:44
+msgid ""
+"The Report below shows emails sent, emails opened and other related stats "
+"for the selected date range"
+msgstr ""
+
+#: includes/admin/wcap_sent_email_list.php:129
+msgid "Emails Sent :"
+msgstr ""
+
+#: includes/admin/wcap_sent_email_list.php:134
+msgid "Emails Opened :"
+msgstr ""
+
+#: includes/admin/wcap_sent_email_list.php:139
+msgid "Links Clicked :"
+msgstr ""
+
+#: includes/classes/class_wcap_abandoned_orders_table.php:42
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:42
+msgid "abandoned_order_id"
+msgstr ""
+
+#: includes/classes/class_wcap_abandoned_orders_table.php:43
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:43
+msgid "abandoned_order_ids"
+msgstr ""
+
+#: includes/classes/class_wcap_abandoned_orders_table.php:79
+#: includes/classes/class_wcap_abandoned_orders_table.php:93
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:79
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:93
+msgid "Id"
+msgstr ""
+
+#: includes/classes/class_wcap_abandoned_orders_table.php:87
+#: includes/classes/class_wcap_abandoned_orders_table.php:99
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:87
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:99
+msgid "Status of Cart"
+msgstr ""
+
+#: includes/classes/class_wcap_abandoned_orders_table.php:88
+#: includes/classes/class_wcap_abandoned_orders_table.php:100
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:88
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:100
+msgid "More info"
+msgstr ""
+
+#: includes/classes/class_wcap_abandoned_orders_table.php:500
+#: includes/classes/class_wcap_abandoned_orders_table.php:506
+msgid "Tax:"
+msgstr ""
+
+#: includes/classes/class_wcap_abandoned_orders_table.php:506
+msgid "includes"
+msgstr ""
+
+#: includes/classes/class_wcap_abandoned_orders_table.php:515
+msgid "item test"
+msgstr ""
+
+#: includes/classes/class_wcap_abandoned_orders_table.php:517
+msgid "items test"
+msgstr ""
+
+#: includes/classes/class_wcap_abandoned_orders_table.php:528
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:390
+msgid "Abandoned but <br> new cart created after this"
+msgstr ""
+
+#: includes/classes/class_wcap_abandoned_orders_table.php:729
+msgid "Checkout Page"
+msgstr ""
+
+#: includes/classes/class_wcap_abandoned_orders_table.php:748
+#: includes/classes/class_wcap_recover_orders_table.php:563
+#: includes/classes/class_wcap_sent_emails_table.php:408
+msgid "Move to Trash"
+msgstr ""
+
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:146
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:617
+#: includes/classes/class_wcap_recover_trash_orders_table.php:162
+#: includes/classes/class_wcap_recover_trash_orders_table.php:544
+#: includes/classes/class_wcap_sent_trash_emails_table.php:176
+#: includes/classes/class_wcap_sent_trash_emails_table.php:403
+msgid "Restore"
+msgstr ""
+
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:148
+#: includes/classes/class_wcap_abandoned_trash_orders_table.php:618
+#: includes/classes/class_wcap_recover_trash_orders_table.php:164
+#: includes/classes/class_wcap_recover_trash_orders_table.php:545
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/classes/class_wcap_dashboard_report_action.php:122
+msgid "recovered"
+msgstr ""
+
+#: includes/classes/class_wcap_dashboard_report_action.php:123
+msgid "Total Revenue"
+msgstr ""
+
+#: includes/classes/class_wcap_dashboard_report_action.php:124
+msgid "Recovered Revenue"
+msgstr ""
+
+#: includes/classes/class_wcap_dashboard_report_action.php:127
+msgid "Total Carts"
+msgstr ""
+
+#: includes/classes/class_wcap_dashboard_report_action.php:129
+msgid "Emails Sent"
+msgstr ""
+
+#: includes/classes/class_wcap_dashboard_report_action.php:130
+msgid "Emails Opened"
+msgstr ""
+
+#: includes/classes/class_wcap_dashboard_report_action.php:131
+msgid "Emails Not Opened"
+msgstr ""
+
+#: includes/classes/class_wcap_dashboard_report_action.php:132
+msgid "Click Rate"
+msgstr ""
+
+#: includes/classes/class_wcap_dashboard_report_action.php:349
+msgid "This Month"
+msgstr ""
+
+#: includes/classes/class_wcap_dashboard_report_action.php:351
+msgid "This Quarter"
+msgstr ""
+
+#: includes/classes/class_wcap_dashboard_report_action.php:352
+msgid "Last Quarter"
+msgstr ""
+
+#: includes/classes/class_wcap_dashboard_report_action.php:353
+msgid "This Year"
+msgstr ""
+
+#: includes/classes/class_wcap_dashboard_report_action.php:354
+msgid "Last Year"
+msgstr ""
+
+#: includes/classes/class_wcap_dashboard_report_action.php:355
+msgid "Custom"
+msgstr ""
+
+#: includes/classes/class_wcap_dashboard_report_action.php:367
+msgid "Select date range:"
+msgstr ""
+
+#: includes/classes/class_wcap_dashboard_report_action.php:376
+msgid "selected "
+msgstr ""
+
+#: includes/classes/class_wcap_manual_email.php:56
+msgid "Load Message from existing Template:"
+msgstr ""
+
+#: includes/classes/class_wcap_manual_email.php:74
+msgid ""
+"Select the template from which you would like to load the tepmplate data."
+msgstr ""
+
+#: includes/classes/class_wcap_product_report_table.php:49
+msgid "product_id"
+msgstr ""
+
+#: includes/classes/class_wcap_product_report_table.php:50
+msgid "product_ids"
+msgstr ""
+
+#: includes/classes/class_wcap_product_report_table.php:83
+msgid "Product Name"
+msgstr ""
+
+#: includes/classes/class_wcap_product_report_table.php:84
+msgid "Number of Times Abandoned"
+msgstr ""
+
+#: includes/classes/class_wcap_product_report_table.php:85
+msgid "Number of Times Recovered"
+msgstr ""
+
+#: includes/classes/class_wcap_recover_orders_table.php:76
+#: includes/classes/class_wcap_recover_trash_orders_table.php:76
+msgid "rec_abandoned_id"
+msgstr ""
+
+#: includes/classes/class_wcap_recover_orders_table.php:77
+#: includes/classes/class_wcap_recover_trash_orders_table.php:77
+msgid "rec_abandoned_ids"
+msgstr ""
+
+#: includes/classes/class_wcap_recover_orders_table.php:107
+#: includes/classes/class_wcap_recover_trash_orders_table.php:107
+msgid "Customer Name"
+msgstr ""
+
+#: includes/classes/class_wcap_recover_orders_table.php:109
+#: includes/classes/class_wcap_recover_trash_orders_table.php:109
+msgid "Cart Abandoned Date"
+msgstr ""
+
+#: includes/classes/class_wcap_recover_orders_table.php:110
+#: includes/classes/class_wcap_recover_trash_orders_table.php:110
+msgid "Email Sent?"
+msgstr ""
+
+#: includes/classes/class_wcap_recover_orders_table.php:111
+#: includes/classes/class_wcap_recover_trash_orders_table.php:111
+msgid "Cart Recovered Date"
+msgstr ""
+
+#: includes/classes/class_wcap_recover_orders_table.php:160
+#: includes/classes/class_wcap_recover_trash_orders_table.php:159
+msgid "View Details"
+msgstr ""
+
+#: includes/classes/class_wcap_sent_emails_table.php:83
+#: includes/classes/class_wcap_sent_trash_emails_table.php:83
+msgid "sent_email_id"
+msgstr ""
+
+#: includes/classes/class_wcap_sent_emails_table.php:84
+#: includes/classes/class_wcap_sent_trash_emails_table.php:84
+msgid "sent_email_ids"
+msgstr ""
+
+#: includes/classes/class_wcap_sent_emails_table.php:116
+#: includes/classes/class_wcap_sent_trash_emails_table.php:116
+msgid "User Email Address"
+msgstr ""
+
+#: includes/classes/class_wcap_sent_emails_table.php:117
+#: includes/classes/class_wcap_sent_trash_emails_table.php:117
+msgid "Email Sent Time"
+msgstr ""
+
+#: includes/classes/class_wcap_sent_emails_table.php:118
+#: includes/classes/class_wcap_sent_trash_emails_table.php:118
+msgid "Date / Time  Email Opened"
+msgstr ""
+
+#: includes/classes/class_wcap_sent_emails_table.php:119
+#: includes/classes/class_wcap_sent_trash_emails_table.php:119
+msgid "Link Clicked"
+msgstr ""
+
+#: includes/classes/class_wcap_sent_emails_table.php:120
+#: includes/classes/class_wcap_sent_trash_emails_table.php:120
+msgid "Sent Email Template"
+msgstr ""
+
+#: includes/classes/class_wcap_sent_emails_table.php:168
+#: includes/classes/class_wcap_sent_trash_emails_table.php:168
+msgid "Abandoned Order"
+msgstr ""
+
+#: includes/classes/class_wcap_sent_emails_table.php:172
+#: includes/classes/class_wcap_sent_trash_emails_table.php:172
+msgid " Recovered Order"
+msgstr ""
+
+#: includes/classes/class_wcap_templates_table.php:45
+msgid "template_id"
+msgstr ""
+
+#: includes/classes/class_wcap_templates_table.php:46
+msgid "template_ids"
+msgstr ""
+
+#: includes/classes/class_wcap_templates_table.php:76
+msgid "Sr"
+msgstr ""
+
+#: includes/classes/class_wcap_templates_table.php:77
+msgid "Name Of Template"
+msgstr ""
+
+#: includes/classes/class_wcap_templates_table.php:78
+msgid "Sent After Set Time"
+msgstr ""
+
+#: includes/classes/class_wcap_templates_table.php:79
+msgid "Send To Segment(s)"
+msgstr ""
+
+#: includes/classes/class_wcap_templates_table.php:80
+msgid "Number of Emails Sent"
+msgstr ""
+
+#: includes/classes/class_wcap_templates_table.php:81
+msgid "Percent Recovery"
+msgstr ""
+
+#: includes/classes/class_wcap_templates_table.php:82
+msgid "Start Sending"
+msgstr ""
+
+#: includes/classes/class_wcap_templates_table.php:127
+msgid "Edit"
+msgstr ""
+
+#: includes/classes/class_wcap_templates_table.php:128
+msgid "Duplicate"
+msgstr ""
+
+#: includes/classes/class_wcap_templates_table.php:129
+#: includes/classes/class_wcap_templates_table.php:331
+msgid "Delete"
+msgstr ""
+
+#: includes/classes/class_wcap_templates_table.php:206
+msgid " "
+msgstr ""

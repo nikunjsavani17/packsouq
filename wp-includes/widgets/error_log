@@ -1,0 +1,56 @@
+[09-Aug-2021 09:26:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Aug-2021 15:46:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Aug-2021 06:24:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Aug-2021 06:30:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[30-Aug-2021 20:14:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Sep-2021 19:07:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Sep-2021 02:16:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Sep-2021 02:16:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Sep-2021 17:45:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Oct-2021 12:59:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Oct-2021 14:56:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Oct-2021 17:39:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Nov-2021 18:09:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Nov-2021 03:31:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/packsouq/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

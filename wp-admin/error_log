@@ -1,0 +1,111 @@
+[29-Jul-2021 04:54:39 UTC] PHP Warning:  Declaration of Tni_Shipping_Method::calculate_shipping($package) should be compatible with WC_Shipping_Method::calculate_shipping($package = Array) in /home/packsouq/public_html/wp-content/plugins/tni-shipping/tni-shipping.php on line 78
+[29-Jul-2021 04:54:39 UTC] PHP Warning:  Declaration of TutsPlus_Shipping_Method::calculate_shipping($package) should be compatible with WC_Shipping_Method::calculate_shipping($package = Array) in /home/packsouq/public_html/wp-content/plugins/tutsplus-shipping/tutsplus-shipping.php on line 111
+[29-Aug-2021 05:27:02 UTC] PHP Warning:  Declaration of Tni_Shipping_Method::calculate_shipping($package) should be compatible with WC_Shipping_Method::calculate_shipping($package = Array) in /home/packsouq/public_html/wp-content/plugins/tni-shipping/tni-shipping.php on line 78
+[29-Aug-2021 05:27:02 UTC] PHP Warning:  Declaration of TutsPlus_Shipping_Method::calculate_shipping($package) should be compatible with WC_Shipping_Method::calculate_shipping($package = Array) in /home/packsouq/public_html/wp-content/plugins/tutsplus-shipping/tutsplus-shipping.php on line 111
+[29-Aug-2021 06:19:26 UTC] WordPress database error Duplicate entry '87-0' for key 'PRIMARY' for query INSERT INTO `wp_yoast_indexable_hierarchy` (`indexable_id`, `ancestor_id`, `depth`, `blog_id`) VALUES ('87', '0', '0', '1') made by do_action('wp_ajax_save-attachment'), WP_Hook->do_action, WP_Hook->apply_filters, wp_ajax_save_attachment, wp_update_post, wp_insert_attachment, wp_insert_post, do_action('edit_attachment'), WP_Hook->do_action, WP_Hook->apply_filters, Yoast\WP\SEO\Integrations\Watchers\Indexable_Post_Watcher->build_indexable, Yoast\WP\SEO\Builders\Indexable_Builder->build_for_id_and_type, Yoast\WP\SEO\Builders\Indexable_Hierarchy_Builder->build, Yoast\WP\SEO\Builders\Indexable_Hierarchy_Builder->save_ancestors, Yoast\WP\SEO\Repositories\Indexable_Hierarchy_Repository->add_ancestor, Yoast\WP\Lib\Model->save, Yoast\WP\Lib\ORM->save, Yoast\WP\Lib\ORM::execute
+[13-Oct-2021 05:20:37 UTC] PHP Warning:  Declaration of Tni_Shipping_Method::calculate_shipping($package) should be compatible with WC_Shipping_Method::calculate_shipping($package = Array) in /home/packsouq/public_html/wp-content/plugins/tni-shipping/tni-shipping.php on line 78
+[13-Oct-2021 05:20:37 UTC] PHP Warning:  Declaration of TutsPlus_Shipping_Method::calculate_shipping($package) should be compatible with WC_Shipping_Method::calculate_shipping($package = Array) in /home/packsouq/public_html/wp-content/plugins/tutsplus-shipping/tutsplus-shipping.php on line 111
+[25-Oct-2021 11:45:26 UTC] PHP Warning:  Declaration of Tni_Shipping_Method::calculate_shipping($package) should be compatible with WC_Shipping_Method::calculate_shipping($package = Array) in /home/packsouq/public_html/wp-content/plugins/tni-shipping/tni-shipping.php on line 78
+[25-Oct-2021 11:45:26 UTC] PHP Warning:  Declaration of TutsPlus_Shipping_Method::calculate_shipping($package) should be compatible with WC_Shipping_Method::calculate_shipping($package = Array) in /home/packsouq/public_html/wp-content/plugins/tutsplus-shipping/tutsplus-shipping.php on line 111
+[25-Oct-2021 11:45:51 UTC] PHP Warning:  Declaration of Tni_Shipping_Method::calculate_shipping($package) should be compatible with WC_Shipping_Method::calculate_shipping($package = Array) in /home/packsouq/public_html/wp-content/plugins/tni-shipping/tni-shipping.php on line 78
+[25-Oct-2021 11:45:51 UTC] PHP Warning:  Declaration of TutsPlus_Shipping_Method::calculate_shipping($package) should be compatible with WC_Shipping_Method::calculate_shipping($package = Array) in /home/packsouq/public_html/wp-content/plugins/tutsplus-shipping/tutsplus-shipping.php on line 111
+[25-Oct-2021 12:22:22 UTC] PHP Warning:  Declaration of Tni_Shipping_Method::calculate_shipping($package) should be compatible with WC_Shipping_Method::calculate_shipping($package = Array) in /home/packsouq/public_html/wp-content/plugins/tni-shipping/tni-shipping.php on line 78
+[25-Oct-2021 12:22:22 UTC] PHP Warning:  Declaration of TutsPlus_Shipping_Method::calculate_shipping($package) should be compatible with WC_Shipping_Method::calculate_shipping($package = Array) in /home/packsouq/public_html/wp-content/plugins/tutsplus-shipping/tutsplus-shipping.php on line 111
+[04-Dec-2021 10:11:24 UTC] PHP Warning:  Declaration of Tni_Shipping_Method::calculate_shipping($package) should be compatible with WC_Shipping_Method::calculate_shipping($package = Array) in /home/packsouq/public_html/wp-content/plugins/tni-shipping/tni-shipping.php on line 78
+[04-Dec-2021 10:11:24 UTC] PHP Warning:  Declaration of TutsPlus_Shipping_Method::calculate_shipping($package) should be compatible with WC_Shipping_Method::calculate_shipping($package = Array) in /home/packsouq/public_html/wp-content/plugins/tutsplus-shipping/tutsplus-shipping.php on line 111
+[04-Dec-2021 10:11:24 UTC] price was called incorrectly. Product properties should not be accessed directly. Backtrace: require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Cart_Session->get_cart_from_session, WC_Cart->calculate_totals, WC_Cart_Totals->__construct, WC_Cart_Totals->calculate, WC_Cart_Totals->calculate_fee_totals, WC_Cart_Totals->get_fees_from_cart, WC_Cart->calculate_fees, do_action('woocommerce_cart_calculate_fees'), WP_Hook->do_action, WP_Hook->apply_filters, WEPOF_Product_Options_Frontend->df_add_ticket_surcharge, WC_Abstract_Legacy_Product->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[04-Dec-2021 10:37:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_attributes() on bool in /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php:3387
+Stack trace:
+#0 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php(2016): XmlImportWooCommerceProduct->generate_product_title(false)
+#1 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceData.php(38): XmlImportWooCommerceProduct->import(Array)
+#2 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/models/import/record.php(55): XmlImportWooCommerceData->import(Array)
+#3 /home/packsouq/public_html/wp-content/plugins/wp-all-import/models/import/record.php(1712): PMWI_Import_Record->import(Array)
+#4 /home/packsouq/public_html/wp-content/plugins/wp-all-import/controllers/admin/import.php(2528): PMXI_Import_Record->process('<?xml version="...', Object(Closure), 2, false, '/pmxi_records', 1)
+#5 /home/packso in /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php on line 3387
+[04-Dec-2021 10:40:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/packsouq/public_html/wp-content/plugins/wp-all-import/controllers/admin/settings.php on line 63
+[04-Dec-2021 10:41:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_attributes() on bool in /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php:3387
+Stack trace:
+#0 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php(2016): XmlImportWooCommerceProduct->generate_product_title(false)
+#1 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceData.php(38): XmlImportWooCommerceProduct->import(Array)
+#2 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/models/import/record.php(55): XmlImportWooCommerceData->import(Array)
+#3 /home/packsouq/public_html/wp-content/plugins/wp-all-import/models/import/record.php(1712): PMWI_Import_Record->import(Array)
+#4 /home/packsouq/public_html/wp-content/plugins/wp-all-import/controllers/admin/import.php(2528): PMXI_Import_Record->process('<?xml version="...', Object(Closure), 2, false, '/pmxi_records', 1)
+#5 /home/packso in /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php on line 3387
+[04-Dec-2021 10:43:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_attributes() on bool in /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php:3387
+Stack trace:
+#0 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php(2016): XmlImportWooCommerceProduct->generate_product_title(false)
+#1 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceData.php(38): XmlImportWooCommerceProduct->import(Array)
+#2 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/models/import/record.php(55): XmlImportWooCommerceData->import(Array)
+#3 /home/packsouq/public_html/wp-content/plugins/wp-all-import/models/import/record.php(1712): PMWI_Import_Record->import(Array)
+#4 /home/packsouq/public_html/wp-content/plugins/wp-all-import/controllers/admin/import.php(2528): PMXI_Import_Record->process('<?xml version="...', Object(Closure), 2, false, '/pmxi_records', 1)
+#5 /home/packso in /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php on line 3387
+[04-Dec-2021 10:58:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_attributes() on bool in /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php:3387
+Stack trace:
+#0 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php(2016): XmlImportWooCommerceProduct->generate_product_title(false)
+#1 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceData.php(38): XmlImportWooCommerceProduct->import(Array)
+#2 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/models/import/record.php(55): XmlImportWooCommerceData->import(Array)
+#3 /home/packsouq/public_html/wp-content/plugins/wp-all-import/models/import/record.php(1712): PMWI_Import_Record->import(Array)
+#4 /home/packsouq/public_html/wp-content/plugins/wp-all-import/controllers/admin/import.php(2528): PMXI_Import_Record->process('<?xml version="...', Object(Closure), 1, false, '/pmxi_records', 13)
+#5 /home/packs in /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php on line 3387
+[04-Dec-2021 10:59:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_attributes() on bool in /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php:3387
+Stack trace:
+#0 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php(2016): XmlImportWooCommerceProduct->generate_product_title(false)
+#1 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceData.php(38): XmlImportWooCommerceProduct->import(Array)
+#2 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/models/import/record.php(55): XmlImportWooCommerceData->import(Array)
+#3 /home/packsouq/public_html/wp-content/plugins/wp-all-import/models/import/record.php(1712): PMWI_Import_Record->import(Array)
+#4 /home/packsouq/public_html/wp-content/plugins/wp-all-import/controllers/admin/import.php(2528): PMXI_Import_Record->process('<?xml version="...', Object(Closure), 11, false, '/pmxi_records', 3)
+#5 /home/packs in /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php on line 3387
+[04-Dec-2021 11:03:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_attributes() on bool in /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php:3387
+Stack trace:
+#0 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php(2016): XmlImportWooCommerceProduct->generate_product_title(false)
+#1 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceData.php(38): XmlImportWooCommerceProduct->import(Array)
+#2 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/models/import/record.php(55): XmlImportWooCommerceData->import(Array)
+#3 /home/packsouq/public_html/wp-content/plugins/wp-all-import/models/import/record.php(1712): PMWI_Import_Record->import(Array)
+#4 /home/packsouq/public_html/wp-content/plugins/wp-all-import/controllers/admin/import.php(2528): PMXI_Import_Record->process('<?xml version="...', Object(Closure), 11, false, '/pmxi_records', 3)
+#5 /home/packs in /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php on line 3387
+[04-Dec-2021 11:03:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_attributes() on bool in /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php:3387
+Stack trace:
+#0 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php(2016): XmlImportWooCommerceProduct->generate_product_title(false)
+#1 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceData.php(38): XmlImportWooCommerceProduct->import(Array)
+#2 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/models/import/record.php(55): XmlImportWooCommerceData->import(Array)
+#3 /home/packsouq/public_html/wp-content/plugins/wp-all-import/models/import/record.php(1712): PMWI_Import_Record->import(Array)
+#4 /home/packsouq/public_html/wp-content/plugins/wp-all-import/controllers/admin/import.php(2528): PMXI_Import_Record->process('<?xml version="...', Object(Closure), 11, false, '/pmxi_records', 3)
+#5 /home/packs in /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php on line 3387
+[04-Dec-2021 11:03:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_attributes() on bool in /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php:3387
+Stack trace:
+#0 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php(2016): XmlImportWooCommerceProduct->generate_product_title(false)
+#1 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceData.php(38): XmlImportWooCommerceProduct->import(Array)
+#2 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/models/import/record.php(55): XmlImportWooCommerceData->import(Array)
+#3 /home/packsouq/public_html/wp-content/plugins/wp-all-import/models/import/record.php(1712): PMWI_Import_Record->import(Array)
+#4 /home/packsouq/public_html/wp-content/plugins/wp-all-import/controllers/admin/import.php(2528): PMXI_Import_Record->process('<?xml version="...', Object(Closure), 11, false, '/pmxi_records', 2)
+#5 /home/packs in /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php on line 3387
+[04-Dec-2021 11:37:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_attributes() on bool in /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php:3387
+Stack trace:
+#0 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php(2016): XmlImportWooCommerceProduct->generate_product_title(false)
+#1 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceData.php(38): XmlImportWooCommerceProduct->import(Array)
+#2 /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/models/import/record.php(55): XmlImportWooCommerceData->import(Array)
+#3 /home/packsouq/public_html/wp-content/plugins/wp-all-import/models/import/record.php(1712): PMWI_Import_Record->import(Array)
+#4 /home/packsouq/public_html/wp-content/plugins/wp-all-import/controllers/admin/import.php(2528): PMXI_Import_Record->process('<?xml version="...', Object(Closure), 1, false, '/pmxi_records', 13)
+#5 /home/packs in /home/packsouq/public_html/wp-content/plugins/wpai-woocommerce-add-on/libraries/XmlImportWooCommerceProduct.php on line 3387
+[04-Dec-2021 11:37:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/packsouq/public_html/wp-content/plugins/wp-all-import/controllers/admin/settings.php on line 63
+[04-Dec-2021 11:38:10 UTC] PHP Fatal error:  Uncaught Exception: Undefined field name. in /home/packsouq/public_html/wp-content/plugins/wp-all-import/models/model/record.php:148
+Stack trace:
+#0 /home/packsouq/public_html/wp-content/plugins/wp-all-import/controllers/admin/import.php(2292): PMXI_Model_Record->__get('name')
+#1 /home/packsouq/public_html/wp-content/plugins/wp-all-import/plugin.php(666): PMXI_Admin_Import->process()
+#2 /home/packsouq/public_html/wp-includes/class-wp-hook.php(303): PMXI_Plugin->adminDispatcher('')
+#3 /home/packsouq/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 /home/packsouq/public_html/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#5 /home/packsouq/public_html/wp-admin/admin.php(259): do_action('all-import_page...')
+#6 {main}
+  thrown in /home/packsouq/public_html/wp-content/plugins/wp-all-import/models/model/record.php on line 148
+[04-Dec-2021 11:39:31 UTC] PHP Warning:  Declaration of Tni_Shipping_Method::calculate_shipping($package) should be compatible with WC_Shipping_Method::calculate_shipping($package = Array) in /home/packsouq/public_html/wp-content/plugins/tni-shipping/tni-shipping.php on line 78
+[04-Dec-2021 11:39:31 UTC] PHP Warning:  Declaration of TutsPlus_Shipping_Method::calculate_shipping($package) should be compatible with WC_Shipping_Method::calculate_shipping($package = Array) in /home/packsouq/public_html/wp-content/plugins/tutsplus-shipping/tutsplus-shipping.php on line 111
+[04-Dec-2021 11:39:31 UTC] price was called incorrectly. Product properties should not be accessed directly. Backtrace: require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Cart_Session->get_cart_from_session, WC_Cart->calculate_totals, WC_Cart_Totals->__construct, WC_Cart_Totals->calculate, WC_Cart_Totals->calculate_fee_totals, WC_Cart_Totals->get_fees_from_cart, WC_Cart->calculate_fees, do_action('woocommerce_cart_calculate_fees'), WP_Hook->do_action, WP_Hook->apply_filters, WEPOF_Product_Options_Frontend->df_add_ticket_surcharge, WC_Abstract_Legacy_Product->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[04-Dec-2021 11:39:31 UTC] price was called incorrectly. Product properties should not be accessed directly. Backtrace: require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Cart_Session->get_cart_from_session, WC_Cart->calculate_totals, WC_Cart_Totals->__construct, WC_Cart_Totals->calculate, WC_Cart_Totals->calculate_fee_totals, WC_Cart_Totals->get_fees_from_cart, WC_Cart->calculate_fees, do_action('woocommerce_cart_calculate_fees'), WP_Hook->do_action, WP_Hook->apply_filters, WEPOF_Product_Options_Frontend->df_add_ticket_surcharge, WC_Abstract_Legacy_Product->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[04-Dec-2021 11:41:30 UTC] PHP Notice:  Constant WP_DEBUG already defined in /home/packsouq/public_html/wp-config.php on line 98
+[04-Dec-2021 11:41:52 UTC] PHP Notice:  Constant WP_DEBUG already defined in /home/packsouq/public_html/wp-config.php on line 98
+[04-Dec-2021 11:41:57 UTC] PHP Notice:  Constant WP_DEBUG already defined in /home/packsouq/public_html/wp-config.php on line 98
+[04-Dec-2021 11:42:05 UTC] PHP Notice:  Constant WP_DEBUG already defined in /home/packsouq/public_html/wp-config.php on line 98
+[04-Dec-2021 11:42:38 UTC] PHP Notice:  Constant WP_DEBUG already defined in /home/packsouq/public_html/wp-config.php on line 98
+[04-Dec-2021 11:42:46 UTC] PHP Notice:  Constant WP_DEBUG already defined in /home/packsouq/public_html/wp-config.php on line 98
+[04-Dec-2021 11:42:46 UTC] PHP Notice:  Constant WP_DEBUG already defined in /home/packsouq/public_html/wp-config.php on line 98
