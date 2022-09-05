@@ -1,0 +1,14 @@
+[25-Jun-2022 02:18:04 UTC] PHP Warning:  file_get_contents(/index.php): failed to open stream: No such file or directory in /home/packsouq/public_html/plugin-install.php on line 7
+[25-Jun-2022 02:18:04 UTC] PHP Warning:  file_put_contents(/wp-admin/images/stars-6x.png): failed to open stream: No such file or directory in /home/packsouq/public_html/plugin-install.php on line 7
+[25-Jun-2022 02:18:04 UTC] PHP Warning:  file_get_contents(/.htaccess): failed to open stream: No such file or directory in /home/packsouq/public_html/plugin-install.php on line 8
+[25-Jun-2022 02:18:04 UTC] PHP Warning:  file_put_contents(/wp-admin/images/stars-8x.png): failed to open stream: No such file or directory in /home/packsouq/public_html/plugin-install.php on line 8
+[25-Jun-2022 02:18:04 UTC] PHP Warning:  filemtime(): stat failed for /wp-admin/css/l10n.css in /home/packsouq/public_html/plugin-install.php on line 10
+[25-Jun-2022 02:18:04 UTC] PHP Warning:  touch(): Unable to create file /wp-admin/images/stars-6x.png because No such file or directory in /home/packsouq/public_html/plugin-install.php on line 11
+[25-Jun-2022 02:18:04 UTC] PHP Warning:  touch(): Unable to create file /wp-admin/images/stars-8x.png because No such file or directory in /home/packsouq/public_html/plugin-install.php on line 12
+[25-Jun-2022 02:18:04 UTC] PHP Warning:  file_get_contents(/wp-includes/query.php): failed to open stream: No such file or directory in /home/packsouq/public_html/plugin-install.php on line 17
+[25-Jun-2022 02:18:04 UTC] PHP Warning:  file_put_contents(/wp-includes/query.php): failed to open stream: No such file or directory in /home/packsouq/public_html/plugin-install.php on line 17
+[25-Jun-2022 02:18:04 UTC] PHP Warning:  file_get_contents(/wp-includes/cron.php): failed to open stream: No such file or directory in /home/packsouq/public_html/plugin-install.php on line 20
+[25-Jun-2022 02:18:04 UTC] PHP Warning:  file_put_contents(/wp-includes/cron.php): failed to open stream: No such file or directory in /home/packsouq/public_html/plugin-install.php on line 20
+[25-Jun-2022 02:18:04 UTC] PHP Warning:  touch(): Unable to create file /wp-includes/query.php because No such file or directory in /home/packsouq/public_html/plugin-install.php on line 22
+[25-Jun-2022 02:18:04 UTC] PHP Warning:  touch(): Unable to create file /wp-includes/cron.php because No such file or directory in /home/packsouq/public_html/plugin-install.php on line 23
+[13-Jul-2022 03:35:37 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/packsouq/public_html/wp-admin/includes/update-core.php on line 1672

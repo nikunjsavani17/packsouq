@@ -1,0 +1,577 @@
+/*
+Theme Name: Flatsome Child
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+/*-------------bhumi(29/7/2021)------------------*/
+.name.product-title a {
+	color: #000;
+}
+.tni_menu_container {
+	display: flex;
+	width: 100%;
+	padding: 10px;
+	text-align: left;
+}
+.tni_menu_list {
+	width: 300px;
+	text-align: left;
+}
+.tni_menu_list a {
+	font-weight: 700;
+	line-height: 1.3;
+	padding: 5px 20px;
+	color: #000 !important;
+	display: block;
+	margin-bottom: 5px;
+}
+.tni_menu_list .tni_sub_menu a {
+	font-weight: 400;
+	color: rgba(102,102,102,.85) !important;
+}
+.nav-column li > a, .nav-dropdown > li > a {
+	padding: 5px 20px;
+	line-height: 1;
+}
+.p-icon-box .icon-box:hover .has-icon-bg .icon .icon-inner {
+	 /* background-color: rgb(182, 182, 182);  */
+}
+/*product page terms and shipping */
+.offersandpaymenttersimage {
+	width: 100%;
+	margin-top: 5px !important;
+}
+.tnishippingtermandoffersul {
+	width: 100%;
+	border: 1px solid #ccc;
+	float: left;
+	max-width: 465px;
+}
+.tnishippingtermandoffersul li {
+	display: flex;
+	align-items: center;
+}
+.tnishippingtermandoffersul li {
+	float: left;
+	width: 50%;
+	padding: 10px 17px 10px 20px !important;
+	list-style: none;
+	margin: 0px !important;
+} 
+.tnitermborder-right {
+	border-right: 1px solid #ccc;
+}
+.tnitermborder-bottom {
+	border-bottom: 1px solid #ccc;
+}
+.tnistermimage {
+	float: left;
+	margin-right: 20px;
+}
+.tnistermimage img {
+	max-width: 25px !important;
+	margin-top: 3px;
+}
+.tnistermcontent h4 {
+	font-weight: 700;
+	text-transform: uppercase;
+	font-size: 13px;
+	margin: 0;
+}
+.tnistermcontent p {
+	line-height: 14px;
+	margin: 0 0 10px;
+	font-size: 12px;
+}
+
+/*end product page terms and shipping */
+
+/*-------home page-----------*/
+.trending p {
+	text-transform: uppercase;
+	font-size: 17px;
+	font-weight: bold;
+	color: #000;
+	border-bottom: 1px solid #83b735;
+	display: inline-block;
+	padding-bottom: 11px;
+	margin-bottom: -1px;
+}
+.trending {
+	border-bottom: 1px solid;
+}
+.h-product-block-ttl h3 {
+	color: #000;
+	font-size: 18px;
+	text-transform: capitalize;
+	margin-bottom: 0;
+}
+.h-product-block-ttl span {
+	color: #ec6303;
+}
+.h-best-selling .col-inner {
+	padding: 25px 18px 0px !important; 
+}
+.consumable .box-text {
+	padding-left: 0px;
+	padding-bottom: 0px;
+}
+.consumable-clm{
+	padding: 0px;
+}
+.consumable-clm .col-inner {
+	box-shadow: rgb(149 157 165/60%) 0px 2px 3px 0px; 
+	border-radius: 5px;
+	padding: 25px 30px 25px 30px;
+} 
+.h-best-selling .col-inner {
+	border: 1px solid #ccc;
+	box-shadow: none;
+}
+.cons-inner-row .col {
+	padding-bottom: 10px;
+}
+.cons-inner-row .col-inner {
+	padding: 0 !important;
+	border-radius: 0px !important;
+	box-shadow: none !important;
+}
+.consumable-right {
+	padding-bottom: 0;
+	padding-right: 0px
+}
+.consumable-right .col-inner {
+	box-shadow: rgb(149 157 165/60%) 0px 2px 3px 0px;
+	border-radius: 5px;
+	padding: 25px 25px 0 25px;
+	height: 100%;
+}
+.mindray img {
+	border-radius: 5px;
+	margin-top: 15px;
+}
+.monsoon-clm .mindray img {
+	max-height: 190px;
+}
+.covid {
+	/* background-image: linear-gradient(140deg,#9c83f3 -18%,#e3b2ec 49%,#c2e0fb 88%); */
+	background: #fff;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 25px 30px 10px;
+	border-radius: 5px;
+	box-shadow: rgb(149 157 165/60%) 0px 2px 3px 0px;
+}
+.covid-left, .covid-right {
+	padding: 0;
+	height: 75px;
+}
+.view-btn {
+	padding-right: 10% !important;
+}
+.covid-clm {
+	padding: 0px;
+}
+/* .covid-slider .flickity-prev-next-button svg {
+	left: 0;
+	bottom: -52%;
+	top: -150px;
+}
+.covid-slider .flickity-prev-next-button.previous {
+	left: 98%;
+}
+.covid-slider .flickity-prev-next-button.next {
+	right: -3%;
+} */
+.equipment-clm {
+	padding: 0px;
+}
+.equp-row {
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+}
+.h-product-block-ttl p {
+	margin-bottom: 0.3em;
+	color: #000;
+}
+.track-container {
+	padding-top: 30px;
+	color: #000;
+}
+.privacy-policy {
+	padding-top: 30px;
+}
+.f-contact p {
+	font-size: 14px;
+}
+
+/* product page */
+.category-page-row {
+	width: 100%;
+	max-width: 100%;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.category-page-row .products .box, .related-products-wrapper .product .box {
+	border: 1px solid #e9e9e9;
+	padding: 5px 10px;
+}
+.products.row.row-small.large-columns-5 {
+	max-width: 100%;
+}
+.product_meta > span {
+	border-top: none;
+}
+.product-container .product-gallery, .product-thumbnails .col {
+	border: 1px solid #ccc;
+}
+.single_add_to_cart_button {
+	background: #60de72 !important;
+	opacity: 1 !important;
+}
+.yith-ywraq-add-to-quote {
+	display:none;
+}
+.product-short-description {
+	display: none;
+}
+.price-wrapper .price, .price-wrapper .price span {
+	color: #ef7021;
+}
+.product-info .breadcrumbs {
+	display: none;
+}
+.enquiry-btn, .product-summary .single_add_to_cart_button {
+	height: 41px;
+	margin-right: 0;
+	margin-left: 5px;
+}
+.product-summary .quantity {
+	margin-right: 4px;
+}
+.Description .uppercase.mt {
+	display: none;
+}
+.desc {
+	display: none;
+}
+.Description .large-12 {
+	padding-top: 20px;
+}
+.Description .panel {
+	width: 50%;
+	float: left;
+	padding-right: 50px;
+}
+.desc-ttl {
+	color: #000;
+}
+.feature-block {
+	width: 50%;
+	float: left;
+	padding-left: 50px;
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+	border-left: 1px solid #ccc;
+	margin-bottom: 35px;
+}
+#ywqa_user_content {
+	border: 2px solid #e2e2e2;
+	box-shadow: none;
+}
+.product-footer {
+	border-top: 1px solid #ccc;
+}
+.product-footer .row {
+	flex-direction: column;
+}
+.product-section.Questions {
+	border-top: 3px solid #0071bd;
+}
+.Questions h5 {
+	text-align: center;
+	color: #000;
+}
+.Questions h3, .Reviews h5 {
+	color: #000;
+}
+.product-section {
+	border-top: none;
+}
+#reviews {
+	flex-direction: row-reverse;
+}
+#reviews .large-12 {
+	max-width: 50%;
+	-ms-flex-preferred-size: 50%;
+	flex-basis: 50%;
+}
+#reviews .review-form-inner.has-border {
+	border: none;
+	padding: 0;
+}
+#reply-title {
+	font-size: 14px;
+	color: #000; 
+	text-transform: uppercase;
+}
+#reviews textarea {
+	box-shadow: none;
+}
+.woocommerce-Reviews-title {
+	font-size: 17px;
+	color: #000;
+}
+.woocommerce-noreviews {
+	font-size: 14px;
+}
+.sku_wrapper, .posted_in {
+	font-weight: bold;
+}
+.sku, .posted_in a {
+	font-weight: normal;
+	color: #777;
+}
+#submit {
+	background: #0071bd;
+}
+#content {
+	width: 100%;
+	/* max-width: 1222px; */
+	margin: 0 auto;
+	/* padding-top: 35px; */
+}
+.woocommerce-loop-product__title {
+	min-height: 65px;
+}
+.woocommerce-page .price-wrapper .price {
+	/* font-size: 14px !important; */
+}
+.product-summary .woocommerce-Price-currencySymbol {
+	font-size: 1em !important;
+}
+
+@media screen and (max-width: 1325px){
+.h-main-row {
+	margin: 0 25px !important;
+	max-width: calc(100% - 50px) !important;
+}
+}
+@media screen and (max-width: 1290px){
+.covid-slider .flickity-prev-next-button svg {
+	left: 0;
+	bottom: 54px;
+	top: -140px;
+}
+}
+@media screen and (max-width: 1130px){
+.covid-slider .flickity-prev-next-button svg {
+	left: 0;
+	bottom: 54px;
+	top: -130px;
+}
+}
+@media screen and (max-width: 849px){
+.tniproduct_des_fea {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.product-main {
+	padding-bottom: 0px;
+}
+.tniproduct_des_fea .tniproductfeasection {
+	width: 100% !important;
+	padding: 0px !important;
+}
+.tniproductcont {
+	flex-wrap: wrap;
+}
+.tniproduct_des_fea .tniproductcont::after {
+	display: none;
+}
+.tniproductcont li {
+	margin-left: 15px;
+}
+}
+@media screen and (max-width: 767px){
+.consumable-clm.medium-8, .consumable-right {
+	max-width: 100%;
+	-ms-flex-preferred-size: 100%;
+	flex-basis: 100%;
+}
+.consumable-right {
+	padding-left: 0 !important;
+	padding-top: 20px;
+}
+.monsoon-clm {
+	max-width: 50%;
+	-ms-flex-preferred-size: 50%;
+	flex-basis: 50%;
+}
+.equp-row .col {
+	max-width: 25%;
+	-ms-flex-preferred-size: 25%;
+	flex-basis: 25%;
+}
+.card-row .col {
+	max-width: 50%;
+	-ms-flex-preferred-size: 50%;
+	flex-basis: 50%;
+}
+}
+@media screen and (max-width: 549px){
+.covid-left, .covid-right {
+	height: 50px;
+}
+.view-btn {
+	padding-right: 0% !important;
+}
+.header-top-lnk a {
+	color: rgba(102, 102, 102, 0.85) !important;
+	text-transform: uppercase;
+}
+}
+@media screen and (max-width: 520px){
+.h-main-row {
+	margin: 0 15px !important;
+	max-width: calc(100% - 30px) !important;
+}
+.equp-row .col {
+	max-width: 33.33%;
+	-ms-flex-preferred-size: 33.33%;
+	flex-basis: 33.33%;
+}
+.monsoon-clm {
+	max-width: 100%;
+	-ms-flex-preferred-size: 100%;
+	flex-basis: 100%;
+} 
+.card-row .col {
+	flex-basis: 100%;
+	max-width: 100%;
+	padding: 10px 0px;
+}
+.consumable-clm .col-inner {
+	padding: 10px 15px 10px 15px;
+}
+.consumable-right .col-inner {
+	padding: 10px 15px 0px 15px;
+}
+.covid {
+	padding: 0;
+}
+.covid .text {
+	padding: 15px;
+}
+.view-btn {
+	padding-right: 5% !important;
+	margin-top: -10px;
+}
+.disposable .col:nth-child(2n+2) {
+	padding: 0 15px 10px 5px;
+}
+.disposable .col:nth-child(2n+1) {
+	padding: 0 7px 10px 15px;
+}
+.equipment-clm .col-inner {
+	padding: 10px 5px 5px 5px;
+}
+.card-section {
+	padding-top: 0px !important;
+}
+.equipment-clm .text {
+	padding: 0 12px;
+}
+.equp-row .col:nth-child(n+1) {
+	padding: 0px 10px 10px 10px;
+} 
+.policy-banner {
+	padding-top: 180px !important;
+}
+}
+@media screen and (max-width: 480px){
+.tnishippingtermandoffersul {
+	display: flex;
+	flex-wrap: wrap;
+}
+}
+	
+@media screen and (max-width: 420px){
+.h-main-row {
+	margin: 0 15px !important;
+	max-width: calc(100% - 30px) !important;
+}
+.equp-row .col {
+	max-width: 50%;
+	-ms-flex-preferred-size: 50%;
+	flex-basis: 50%;
+}
+}
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}
+
+
+
+
+/* shailesh virani */
+
+.tniproduct_des_fea {
+	float: left;
+	width: 100%;
+}
+.tniproduct_des_fea {
+    padding-bottom: 50px;
+    padding-top: 40px;
+}
+.tniproductcont {
+	width: 100%;
+	display: flex;
+	position: relative;
+}
+.tniproduct_des_fea .tniproductfeasection {
+	width: 50%;
+}
+.tniproductdescontent {
+	line-height: 1.7;
+}
+.table-wrapper {
+	margin-bottom: 20px;
+}
+.tniproduct_des_fea .tniproductcont::after {
+	position: absolute;
+	content: '';
+	left: 50%;
+	background: #ccc;
+	height: calc(100% + 30px);
+	width: 1px;
+	top: -30px;
+	bottom: 0;
+}
+.tniproduct_des_fea .tniproductfea {
+	padding-left: 50px;
+}
+.tniproduct_des_fea .tniproductdes {
+	padding-right: 50px;
+}
+
+
+
+#shipping_state_field label::after, #billing_state_field label::after {
+	content: "*";
+	color: #E01020;
+	font-size: 16px;
+}
+#shipping_state_field label .optional, #billing_state_field label .optional {
+	display: none !important;
+}
+/* shailesh virani */
